@@ -1,2 +1,2 @@
 # odin-recipes
-# this project demonstrates HTML skills Aquired from the Odine Project
+# this project demonstrates HTML skills Aquired from the Odin Project
